@@ -1,9 +1,11 @@
 <div align="center">
   <img src=./docs/images/title.png >
 </div>
-# Yeats famously said “Education is not the filling of a pail but the lighting of a fire.” He was right but wrong at the same time6
-. You do have
-to “fill the pail” a bit, and these notes are certainly here to help with that
+
+### https://pages.cs.wisc.edu/~remzi/OSTEP/preface.pdf
+
+Yeats famously said “Education is not the filling of a pail but the lighting of a fire.” He was right but wrong at the same time. 
+You do have to “fill the pail” a bit, and these notes are certainly here to help with that
 part of your education; after all, when you go to interview at Google, and
 they ask you a trick question about how to use semaphores, it might be
 good to actually know what a semaphore is, right?

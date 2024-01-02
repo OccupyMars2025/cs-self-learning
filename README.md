@@ -26,6 +26,8 @@ thus the real point of the educational process: to go forth, to study many
 new and fascinating topics, to learn, to mature, and most importantly, to
 find something that lights a fire for you.
 
+# To read more about the topic on your own, to talk to your professor about all the exciting research that is going on in the field, and even to get involved with that research. It is a great field(!), full of exciting and wonderful ideas that have shaped computing history in profound and important ways. 
+
 # CS 自学指南
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*

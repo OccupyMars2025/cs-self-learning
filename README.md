@@ -1,6 +1,28 @@
 <div align="center">
   <img src=./docs/images/title.png >
 </div>
+# Yeats famously said “Education is not the filling of a pail but the lighting of a fire.” He was right but wrong at the same time6
+. You do have
+to “fill the pail” a bit, and these notes are certainly here to help with that
+part of your education; after all, when you go to interview at Google, and
+they ask you a trick question about how to use semaphores, it might be
+good to actually know what a semaphore is, right?
+But Yeats’s larger point is obviously on the mark: the real point of
+education is to get you interested in something, to learn something more
+about the subject matter on your own and not just what you have to digest
+to get a good grade in some class. As one of our fathers (Remzi’s dad,
+Vedat Arpaci) used to say, “Learn beyond the classroom”.
+We created these notes to spark your interest in operating systems, to
+read more about the topic on your own, to talk to your professor about all
+the exciting research that is going on in the field, and even to get involved
+with that research. It is a great field(!), full of exciting and wonderful
+ideas that have shaped computing history in profound and important
+ways. And while we understand this fire won’t light for all of you, we
+hope it does for many, or even a few. Because once that fire is lit, well,
+that is when you truly become capable of doing something great. And
+thus the real point of the educational process: to go forth, to study many
+new and fascinating topics, to learn, to mature, and most importantly, to
+find something that lights a fire for you.
 
 # CS 自学指南
 
